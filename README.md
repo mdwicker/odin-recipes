@@ -1,0 +1,1 @@
+This is a basic website listing my favorite recipes. The purpose is to gain some practice with basic html.
