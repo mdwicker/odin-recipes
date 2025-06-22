@@ -1,0 +1,34 @@
+body {
+    background-color: #FDF0D5;
+    color: #003049;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: Garamond, serif;
+}
+
+h6 {
+    color: #780000;
+    color: #C1121F;
+    color: #FDF0D5;
+    color: #003049;
+    color: #669BBC
+}
+
+a:link {
+    color: #780000;
+}
+
+a:visited {
+    color: #4b7c9a
+}
+
+ul, ol {
+    width: 600px;
+    border: 1px, solid, black;
+    margin: auto;
+    padding: 50px;
+    text-align: left;
+}
